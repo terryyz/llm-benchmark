@@ -1,2 +1,2 @@
 # open-llms-benchmark
-A list of LLM benchmark frameworks.
+A list of LLM benchmark frameworks. Contributions welcome!
