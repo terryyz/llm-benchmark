@@ -1,7 +1,6 @@
 # llm-benchmark
 A list of comprehensive LLM evaluation frameworks. Contributions welcome!
 
-Benchmarks
 | Benchmark | Release Date | Repository | Paper/Blog | Dataset Number | Aspect | Licence |
 | --- | --- | --- | --- | --- | --- | --- |
 | HELM | --- | https://github.com/stanford-crfm/helm | [Holistic Evaluation of Language Models](https://arxiv.org/abs/2211.09110) | 42 | --- | --- |
