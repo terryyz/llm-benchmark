@@ -9,6 +9,7 @@ A list of comprehensive LLM evaluation frameworks. Contributions welcome!
 | BigScience Evaluation | --- | https://github.com/bigscience-workshop/evaluation | --- | 28 | --- | --- |
 | Language Model Evaluation Harness | --- | https://github.com/EleutherAI/lm-evaluation-harness | [Evaluating Large Language Models (LLMs) with Eleuther AI](https://wandb.ai/wandb_gen/llm-evaluation/reports/Evaluating-Large-Language-Models-LLMs-with-Eleuther-AI--VmlldzoyOTI0MDQ3) [Evaluating LLMs](https://www.eleuther.ai/projects/large-language-model-evaluation) | 56 | --- | --- |
 | Code Generation LM Evaluation Harness | --- | https://github.com/bigcode-project/bigcode-evaluation-harness | --- | 13 | --- | --- |
+| Chatbot Arena | --- | https://github.com/lm-sys/FastChat | --- | --- | --- | --- |
 | GLUE | --- | https://github.com/nyu-mll/jiant | --- | 11 | --- | --- |
 | SuperGLUE | --- | https://github.com/nyu-mll/jiant | --- | 10 | --- | --- |
 | CLUE | --- | https://github.com/CLUEbenchmark/CLUE | --- | 9 | --- | --- |
